@@ -1,2 +1,2 @@
-# WanqingAn.github.io
-Homepage of Wanqing~
+# ACNet
+The homepage of paper *ACNet: A Benchmark for Activity Cliff Prediction*
