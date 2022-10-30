@@ -20,8 +20,8 @@
 ### Research & Programs
 - **Time Series Uncertainty**
 
-Collaborate with Professior Gill Dobbie. [Details]()
+  Collaborate with Professior Gill Dobbie. [Details]()
 
 - **AI Painting Platfrom**
 
-An AI painting platform could interact with human. [Download here](https://github.com/MesaCrush/Graph_Stitiching)
+  An AI painting platform could interact with human. [Download here](https://github.com/MesaCrush/Graph_Stitiching)
