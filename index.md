@@ -2,8 +2,8 @@
 
 
 ### Interests
-- **quantitative finace**
-- **machine learning**
+- **Quantitative Finance**
+- **Machine Learning**
 
 
 ### Euducation
@@ -13,15 +13,15 @@
   
   Silver medal of Asia Pacific Informatics Olympiad
 
-- **The University of Auckland Bachelor of Science (2019-2022)**
-  
-  Double majoring computer science and statistic
+- **The University of Auckland (2019-2022)**
+
+  Bachelor of Science  double majoring computer science and statistic
   
 ### Research & Programs
-- **Time series uncertainty**
+- **Time Series Uncertainty**
 
-Collaborate with Professior Gill Dobbie.
+Collaborate with Professior Gill Dobbie. [Details]()
 
-- **AI painting platfrom**
+- **AI Painting Platfrom**
 
-An AI painting platform could interact with human [Download from here](https://github.com/MesaCrush/Graph_Stitiching)
+An AI painting platform could interact with human. [Download here](https://github.com/MesaCrush/Graph_Stitiching)
