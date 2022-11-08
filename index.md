@@ -20,7 +20,7 @@
 ### Research & Programs
 - **Time Series Uncertainty**
 
-  Collaborate with Professior Gill Dobbie. [Details]()
+  Collaborate with Professior Gill Dobbie. [Details](https://github.com/MesaCrush/Time-seires-uncertianty)
 
 - **AI Painting Platfrom**
 
