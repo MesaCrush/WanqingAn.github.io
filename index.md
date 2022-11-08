@@ -25,3 +25,7 @@
 - **AI Painting Platfrom**
 
   An AI painting platform could interact with human. [Download here](https://github.com/MesaCrush/Graph_Stitiching)
+  
+- **Game-theoretic Attribution Methods**
+
+  
