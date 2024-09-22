@@ -17,21 +17,21 @@
 
   Bachelor of Science  double majoring computer science and statistic
   
-- **London School of Economics and Political Science**
+- **London School of Economics and Political Science (2023-2024)**
 
   Master of Science major statistic
   
 ### Research & Programs
 - **Time Series Uncertainty**
 
-  Collaborate with Professior Gill Dobbie. [Details](https://github.com/MesaCrush/Time-seires-uncertianty)
+  Wind power prediction with time series uncertainty analysis, collaborate with Professior Gill Dobbie. [Details](https://github.com/MesaCrush/Time-seires-uncertianty)
 
 - **AI Painting Platfrom**
 
   An AI painting platform could interact with human. [Download here](https://github.com/MesaCrush/Graph_Stitiching)
   
 - **Reinforcement Learning for Market Making**
-
-  Leveraging Behavioral Cloning and Dynamic Weights for Optimal Trading Strategies. [Details](https://github.com/MesaCrush/LSE-Dissertation)
+  
+  Developed an innovative market making algorithm combining behavioral cloning and reinforcement learning. [Details](https://github.com/MesaCrush/LSE-Dissertation)
 
   
