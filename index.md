@@ -9,13 +9,17 @@
 ### Euducation
 - **National Olympiad in Informatics（2015-2016）**
 
-  First Price of National Olympiad in Informatics in Provinces
+  First Price of National Olympiad in Informatics 
   
   Silver medal of Asia Pacific Informatics Olympiad
 
 - **The University of Auckland (2019-2022)**
 
   Bachelor of Science  double majoring computer science and statistic
+  
+- **London School of Economics and Political Science**
+
+  Master of Science major statistic
   
 ### Research & Programs
 - **Time Series Uncertainty**
@@ -26,6 +30,8 @@
 
   An AI painting platform could interact with human. [Download here](https://github.com/MesaCrush/Graph_Stitiching)
   
-- **Game-theoretic Attribution Methods**
+- **Reinforcement Learning for Market Making**
+
+  Leveraging Behavioral Cloning and Dynamic Weights for Optimal Trading Strategies. [Details](https://github.com/MesaCrush/LSE-Dissertation)
 
   
